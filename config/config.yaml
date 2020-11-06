@@ -13,4 +13,4 @@ source-files:
   # use local file
   - ./config/source.yaml
   # use web file
-  - https://doudoubing3332.herokuapp.com/source.yaml
+  #- https://doudoubing3332.herokuapp.com/source.yaml
